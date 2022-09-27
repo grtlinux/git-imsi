@@ -1,3 +1,22 @@
+# git with command
+```
+$ mkdir git-test & cd git-test
+$ mkdir git-test01 & cd git-test01
+$ git init
+$ echo "## git-test01" >> README.md
+$ git add *
+$ git commit -m "first commit"
+$ git branch -M main
+$ git remote add origin http://github.com/grtlinux/git-tips.git
+$ git push origin master
+```
+```
+$ git init
+$ git remote add origin http://github.com/grtlinux/git-tips.git
+$ git pull origin master
+```
+
+
 # Git Tips
 > [git tips](https://github.com/git-tips/tips)의 한국어 버전 문서입니다.
 
