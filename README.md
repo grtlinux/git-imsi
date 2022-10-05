@@ -7,15 +7,29 @@ $ echo "## git-test01" >> README.md
 $ git add *
 $ git commit -m "first commit"
 $ git branch -M main
-$ git remote add origin http://github.com/grtlinux/git-tips.git
+$ git remote add origin https://github.com/grtlinux/git-tips.git
 $ git push origin master
 ```
 ```
 $ git init
-$ git remote add origin http://github.com/grtlinux/git-tips.git
+$ git remote add origin https://github.com/grtlinux/git-tips.git
 $ git pull origin master
 ```
 
+```
+$ mkdir cookbook
+$ cd cookbook
+$ git init
+$ git branch -M main
+$ git remote add origin https://github.com/grtlinux/KieaPython22.git
+$ git pull origin main
+    ...
+    ( update articles )
+$ git add --all | -A
+$ git commit -m "update sources"
+$ git push origin main
+
+```
 
 # Git Tips
 > [git tips](https://github.com/git-tips/tips)의 한국어 버전 문서입니다.
