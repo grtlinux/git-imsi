@@ -31,14 +31,15 @@ $ git push origin main
 
 ```
 
+# find files in Github
+- Select any repository
+- Press [t]
+
+---
 # Git Tips
 > [git tips](https://github.com/git-tips/tips)의 한국어 버전 문서입니다.
 
 [English](http://git.io/git-tips) | [中文](https://github.com/521xueweihan/git-tips) | [Русский](https://github.com/Imangazaliev/git-tips) | [Tiếng Việt](https://github.com/hprobotic/git-tips) | [日本語](https://github.com/isotai/git-tips) | [नेपाली](https://github.com/amarduwal/git-tips) | [Polski](https://github.com/mbiesiad/tips)
-
-# find files in Github
-- Select any repository
-- Press [t]
 
 ## 팁 툴
 
