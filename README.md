@@ -35,6 +35,11 @@ $ git push origin main
 - Select any repository
 - Press [t]
 
+# Github search command
+- filename:pom.xml
+- user:grtlinux
+- repo:grtlinux/KieaPython
+
 ---
 # Git Tips
 > [git tips](https://github.com/git-tips/tips)의 한국어 버전 문서입니다.
