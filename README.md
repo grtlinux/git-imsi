@@ -35,10 +35,12 @@ $ git push origin main
 - Select any repository
 - Press [t]
 
-# Github search command
+# Github search command [Github Docs](https://docs.github.com/en/search-github/searching-on-github/finding-files-on-github)
 - filename:pom.xml
 - user:grtlinux
 - repo:grtlinux/KieaPython
+- language:java py
+- extension:py
 
 ---
 # Git Tips
