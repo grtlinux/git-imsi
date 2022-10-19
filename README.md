@@ -37,10 +37,12 @@ $ git push origin main
 
 # Github search command [Github Docs](https://docs.github.com/en/search-github/searching-on-github/finding-files-on-github)
 - filename:pom.xml
+- path:/
+- org:master
 - user:grtlinux
 - repo:grtlinux/KieaPython
-- language:java py
-- extension:py
+- language:java python
+- extension:py java
 
 ---
 # Git Tips
