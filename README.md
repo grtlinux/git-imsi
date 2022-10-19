@@ -31,7 +31,7 @@ $ git push origin main
 
 ```
 
-# find files in Github
+# Find files in Github
 - Select any repository
 - Press [t]
 
