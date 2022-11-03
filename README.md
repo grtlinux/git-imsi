@@ -26,7 +26,10 @@ $ git branch -M main
 $ git remote add origin https://github.com/grtlinux/KieaPython22.git
 $ git pull origin main
     ...
-    ( update articles )
+
+[ update or create articles ]
+$ tree *
+
 $ git add --all
 $ git add -A
 $ git status
