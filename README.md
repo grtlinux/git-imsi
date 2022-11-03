@@ -34,6 +34,7 @@ $ git add --all
 $ git add -A
 $ git status
 $ git commit -m "update sources"
+$ git branch
 $ git push origin main
 
 $ cd ..
