@@ -18,6 +18,8 @@ $ git pull origin master
 ```
 
 ```
+[ make some repo on github.com ]
+
 $ mkdir cookbook && cd $_
 $ git init
 $ git branch -M main
@@ -25,10 +27,14 @@ $ git remote add origin https://github.com/grtlinux/KieaPython22.git
 $ git pull origin main
     ...
     ( update articles )
-$ git add --all | -A
+$ git add --all
+$ git add -A
 $ git status
 $ git commit -m "update sources"
 $ git push origin main
+
+$ cd ..
+$ rm -rf cookbook
 
 ```
 
