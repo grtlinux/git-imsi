@@ -1,7 +1,7 @@
 # git with command
 ```
-$ mkdir git-test & cd $_
-$ mkdir git-test01 & cd "$_"
+$ mkdir git-test && cd $_
+$ mkdir git-test01 && cd "$_"
 $ git init
 $ echo "## git-test01" >> README.md
 $ git add *
@@ -17,8 +17,7 @@ $ git pull origin master
 ```
 
 ```
-$ mkdir cookbook
-$ cd cookbook
+$ mkdir cookbook && cd $_
 $ git init
 $ git branch -M main
 $ git remote add origin https://github.com/grtlinux/KieaPython22.git
