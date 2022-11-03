@@ -1,7 +1,7 @@
 # git with command
 ```
-$ mkdir git-test & cd git-test
-$ mkdir git-test01 & cd git-test01
+$ mkdir git-test & cd $_
+$ mkdir git-test01 & cd "$_"
 $ git init
 $ echo "## git-test01" >> README.md
 $ git add *
